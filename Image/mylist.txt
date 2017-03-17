@@ -1,0 +1,9 @@
+%fruit
+apple
+banana
+graphs
+%animal
+cat
+dog
+rat
+elephant
